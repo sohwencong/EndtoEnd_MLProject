@@ -6,4 +6,5 @@ scikit-learn
 threadpoolctl
 catboost
 xgboost
+dill
 # -e .
